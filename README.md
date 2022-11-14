@@ -1,5 +1,6 @@
 # python-spambot
-A python spambot.
-It takes user input, then spams it.
-libraries: pyautogui, time
-enjoy!
+A python spambot.  
+It takes user input, then spams it.	  	
+libraries: pyautogui, time  
+enjoy!  
+-Made by aggbhh20
